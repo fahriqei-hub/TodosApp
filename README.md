@@ -6,13 +6,13 @@ Aplikasi Todos App merupakan proyek sampel CRUD (Create, Read, Update, Delete) b
 
 # Dokumentasi
 - Add
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/9f919f26-cf0f-416b-93b5-4a59b5d3bdac" />
+<img width="1080" height="1920" alt="image" src="https://github.com/user-attachments/assets/9f919f26-cf0f-416b-93b5-4a59b5d3bdac" />
 
 - Read
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/e357cb73-ab70-4a71-a9b2-f1a5985df535" />
+<img width="1080" height="1920" alt="image" src="https://github.com/user-attachments/assets/e357cb73-ab70-4a71-a9b2-f1a5985df535" />
 
 - Update
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/460fc8eb-90fd-47d0-a261-afb8e23b323b" />
+<img width="1080" height="1920" alt="image" src="https://github.com/user-attachments/assets/460fc8eb-90fd-47d0-a261-afb8e23b323b" />
 
 - Delete
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/6d2c856d-9242-486b-938b-b8819b491469" />
+<img width="1080" height="1920" alt="image" src="https://github.com/user-attachments/assets/6d2c856d-9242-486b-938b-b8819b491469" />
